@@ -1,0 +1,14 @@
+Synthèse – Optimisation et Architecture du système TECH-MALIK
+
+Voir document complet de synthèse concernant :
+- Audit système
+- Nettoyage Windows
+- Organisation applications
+- Sécurité DFIR
+- Sysmon / Sigma / Hayabusa
+- Hyper-V
+- IA locale LM Studio
+- Architecture C: / D:
+
+Document généré automatiquement.
+Date : 07/27/2026 20:12:24

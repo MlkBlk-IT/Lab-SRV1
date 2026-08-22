@@ -1,0 +1,18 @@
+=== CONFIGURATION DNS - MODE PENTEST ===
+Date de changement : [À remplir quand tu feras le pentest]
+
+DNS à configurer :
+1. 1.1.1.1 (Cloudflare)
+2. 8.8.8.8 (Google)
+
+DNS à supprimer :
+- 194.242.2.3 (Mullvad)
+- 9.9.9.9 (Quad9)
+
+Procédure :
+1. Ouvrir dnsmgmt.msc
+2. Clic droit sur SRV-LAB-01 → Propriétés
+3. Onglet Redirecteurs → Modifier
+4. Supprimer Mullvad et Quad9
+5. Vérifier que 1.1.1.1 et 8.8.8.8 sont présents
+6. Tester avec : nslookup google.com

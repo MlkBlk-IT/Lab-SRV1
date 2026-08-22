@@ -1,0 +1,45 @@
+# ============================================================
+# .gitignore — Lab-SRV1
+# ============================================================
+
+# CRITIQUE : contient les versions AVANT masquage des mots de passe/emails.
+# Ne doit JAMAIS être poussé sur un repo public.
+_BACKUP_AVANT_MASQUAGE/
+
+# Archives et doublons — bruit, pas de valeur pour le portfolio public
+99_Archive/
+
+# Gros binaires : VMs, ISO, disques virtuels, packages compressés
+# (trop volumineux pour Git, et sans intérêt pour un lecteur du portfolio)
+*.vhdx
+*.vhd
+*.iso
+*.zip
+*.7z
+*.rar
+
+# Dossiers de VM / ISO / sources tiers — vides ou destinés à du contenu local uniquement
+06_Virtual_Machines/Exports/
+06_Virtual_Machines/Linux/
+06_Virtual_Machines/SRV1/
+06_Virtual_Machines/Templates/
+06_Virtual_Machines/WIN11-CLIENT/
+07_ISO/
+08_Sources/
+
+# Exports d'arborescence — régénérables, pas de valeur historique
+09_Exports/
+
+# Fichiers temporaires Windows / Office
+~$*.docx
+~$*.doc
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Logs bruts de l'hôte physique réel (hors périmètre du lab isolé)
+05_Audits_et_Logs/Logs/
+
+# Éditeurs / OS
+.DS_Store
+.vscode/
