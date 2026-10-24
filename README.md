@@ -1,3 +1,5 @@
+> ⚠️ **Note:** The rest of this repository (code, comments, scripts, docs, commits, issues) is written in **French**. Only this README is in English.
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1a0505,100:00ff9c&height=140&section=header&text=Lab-SRV1&fontSize=42&fontColor=e10600&fontAlignY=32&desc=Personal%20cybersecurity%20lab%20%E2%80%94%20hardened%20SRV1%20vs%20vulnerable%20SRV2%2C%20AD%2C%20Hyper-V&descAlignY=53&descSize=15&descColor=00ff9c" width="100%" alt="Lab-SRV1" />
