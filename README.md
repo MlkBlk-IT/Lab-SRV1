@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e10600,50:1a0505,100:00ff9c&height=140&section=header&text=Lab-SRV1&fontSize=42&fontColor=e10600&fontAlignY=32&desc=Personal%20cybersecurity%20lab%20%E2%80%94%20hardened%20SRV1%20vs%20vulnerable%20SRV2%2C%20AD%2C%20Hyper-V&descAlignY=53&descSize=15&descColor=00ff9c" width="100%" alt="Lab-SRV1" />
+<p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Lab-SRV1/main/docs/readme-header.svg" width="100%" alt="Lab-SRV1 visual header" /></p>
 
 <img src="https://img.shields.io/badge/Windows%20Server%202025-e10600?style=for-the-badge&logo=windows&logoColor=e10600&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/Hyper--V-009edc?style=for-the-badge&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/PowerShell-5391fe?style=for-the-badge&logo=powershell&logoColor=5391fe&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/Active%20Directory-00ff9c?style=for-the-badge&labelColor=0d0d0d" />
 
