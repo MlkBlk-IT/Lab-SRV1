@@ -64,6 +64,11 @@ Internet → [NAT Router/RRAS] → vSwitch_External → SRV1 (Win Server 2025)
 **Malik** — IT Support student (DEP), self-taught
 Target specialization: Sysadmin + Cyber + AI + Cloud
 
+
+## Ownership and license
+
+[Project origin and evidence](PROJECT-ORIGIN.md) · [License](LICENSE)
+
 ---
 
 <div align="center">
