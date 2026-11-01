@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/MlkBlk-IT/Lab-SRV1/main/docs/mlkblk-banner-v2.svg" width="100%" alt="Lab-SRV1 — Malik Belkacemi · MLKBLK-IT" /></p>
 
-<img src="https://img.shields.io/badge/Windows%20Server%202025-e10600?style=for-the-badge&logo=windows&logoColor=e10600&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/Hyper--V-009edc?style=for-the-badge&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/PowerShell-5391fe?style=for-the-badge&logo=powershell&logoColor=5391fe&labelColor=0d0d0d" /> <img src="https://img.shields.io/badge/Active%20Directory-00ff9c?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Windows%20Server%202025-ff5fa2?style=for-the-badge&logo=windows&logoColor=ff5fa2&labelColor=0d0a2b" /> <img src="https://img.shields.io/badge/Hyper--V-009edc?style=for-the-badge&labelColor=0d0a2b" /> <img src="https://img.shields.io/badge/PowerShell-5391fe?style=for-the-badge&logo=powershell&logoColor=5391fe&labelColor=0d0a2b" /> <img src="https://img.shields.io/badge/Active%20Directory-2de2ff?style=for-the-badge&labelColor=0d0a2b" />
 
 </div>
 
@@ -73,7 +73,7 @@ Target specialization: Sysadmin + Cyber + AI + Cloud
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:03150c,100:e10600&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2de2ff,50:0d0a2b,100:ff5fa2&height=100&section=footer" width="100%" alt="" />
 
 **⚡ Built on CPU. Proven on disk. ⚡**
 
