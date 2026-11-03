@@ -10,6 +10,13 @@
 
 > **Isolated double-NAT lab**: hardened SRV1 (Windows Server 2025) + vulnerable target SRV2 (SMB)
 > Dell Latitude 5420 — 32GB RAM, i7-1185G7, Iris Xe (0 VRAM)
+## At a glance
+
+| | |
+|---|---|
+| **What it is** | An isolated **double-NAT lab** — a hardened SRV1 (Windows Server 2025) facing a deliberately vulnerable SRV2 (SMB). |
+| **Stack** | Windows Server 2025 · Hyper-V · PowerShell · Active Directory |
+| **Host** | Dell Latitude 5420 — 32 GB RAM, i7-1185G7, Iris Xe (0 VRAM) |
 
 ## Architecture
 
